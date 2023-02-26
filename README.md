@@ -12,6 +12,7 @@ HAKUSHIKI Code は、コメントからAI によってコードを生成する�
 現在コード生成に対応している言語: JavaScript
 
 🤩 HAKUSHIKI Code はオープンソースです！
+GitHub: https://github.com/koshin01/hakushiki_code
 
 ## How to
 
