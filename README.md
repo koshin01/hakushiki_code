@@ -3,7 +3,7 @@
 
 数秒以内に日本語コメントからコードを生成できます！<br>
 
-<video src = "movies/main.mov" controls></video>
+![GIF for introductions](movies/introductions.gif)
 
 **🤖 現在コード生成に対応している言語**<br> 
 JavaScript
@@ -16,11 +16,13 @@ JavaScript
 HAKUSHIKI Code の使い方はとても簡単です。
 
 ### **Step 1**
-コメントで、＠HAKUSHIKI: と入力して改行する。<br>
+右クリックでメニューを出して、HAKUSHIKI Code Activate を選択する
 ### **Step 2**
-生成されたコードを見ながら休憩する☕️
+コメントで、＠HAKUSHIKI: と入力して改行する<br>
+### **Step 3**
+生成されたコードを見ながら休憩する🍩
 
-<video src = "movies/how_to.mov" controls></video>
+![GIF for How to](movies/how_to.gif)
 
 
 ## **FAQ**
@@ -35,10 +37,13 @@ HAKUSHIKI Code の使い方はとても簡単です。
 
 ## **Release Notes**
 
-### 1.0.0
-
+### 0.0.1
 2023年2月27日<br>
 🎉 リリース
+
+### 1.0.1
+2023年2月27日<br>
+📝 README の改善
 
 ## **Developer**
 🧑🏻‍💻 koshin<br>

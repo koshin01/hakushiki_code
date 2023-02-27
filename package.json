@@ -1,8 +1,8 @@
 {
   "name": "hakushiki-code",
   "displayName": "HAKUSHIKI Code",
-  "description": "AI generates code from your comments!",
-  "version": "0.0.1",
+  "description": "日本語コメントからAI がコードを生成します！",
+  "version": "1.0.1",
   "publisher": "koshin",
   "engines": {
     "vscode": "^1.75.0"
