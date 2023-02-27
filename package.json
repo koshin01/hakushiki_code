@@ -15,6 +15,14 @@
     "onCommand:hakushiki-code.activate"
   ],
   "main": "./extension.js",
+  "bugs": {
+    "url": "https://github.com/koshin01/hakushiki_code/issues",
+    "email": "ekoshin2001@icloud.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koshin01/hakushiki_code"
+  },
   "contributes": {
     "commands": [
       {

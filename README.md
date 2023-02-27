@@ -1,57 +1,49 @@
 # HAKUSHIKI Code README
+## **Features**
 
-HAKUSHIKI Code は、コメントからAI によってコードを生成する開発サポートツールです。
-
-## Features
-
-数秒以内に日本語からコードを生成できます！<br>
-コーディングする際のサポートしてご使用ください！<br>
+数秒以内に日本語コメントからコードを生成できます！<br>
 
 <video src = "movies/main.mov" controls></video>
 
-現在コード生成に対応している言語: JavaScript
+**🤖 現在コード生成に対応している言語**<br> 
+JavaScript
 
-🤩 HAKUSHIKI Code はオープンソースです！
-GitHub: https://github.com/koshin01/hakushiki_code
+**💫 オープンソースです！**<br>
+[GitHub](https://github.com/koshin01/hakushiki_code)
 
-## How to
+## **How to**
 
 HAKUSHIKI Code の使い方はとても簡単です。
 
-生成したい場所にコメントで、＠HAKUSHIKI: と入力して改行するだけです。
-例えばJavaScript の場合は、
-```
-// @HAKUSHIKI: FizzBuzz ゲームの処理
-```
-改行すると”🤔 HAKUSHIKI が考え中です"というコメントが挿入されます。
-
-数秒でコードが生成され挿入されます。
-
-あとから見返して、HAKUSHIKI が生成したコードだとわかるよう"😆 Coding by HAKUSHIKI"というコメントが挿入されます。
+### **Step 1**
+コメントで、＠HAKUSHIKI: と入力して改行する。<br>
+### **Step 2**
+生成されたコードを見ながら休憩する☕️
 
 <video src = "movies/how_to.mov" controls></video>
 
 
-## FAQ
+## **FAQ**
 
 😵: 改行しても何の反応もない<br>
-🧑🏻‍💻: コメントが間違えている可能性があります。@HAKUSHIKI: とコロンまで忘れずにつけて改行してください！
+🧑🏻‍💻: コメントが間違えている可能性があります。@HAKUSHIKI: とコロンまでつけて改行してください！
 
 😵: コードが生成できない<br>
 🧑🏻‍💻: 生成しようとしている言語が対応していない可能性があります。
 ※ 現在対応している言語はJavaScript のみです。
 
 
-## Release Notes
+## **Release Notes**
 
 ### 1.0.0
 
 2023年2月27日<br>
 🎉 リリース
 
-## Me
+## **Developer**
 🧑🏻‍💻 koshin<br>
 東京でソフトウェアエンジニアしています！
 
-https://www.wantedly.com/id/koshin2001
+👇より詳しく<br>
+[Wantedly](https://www.wantedly.com/id/koshin2001)
 
